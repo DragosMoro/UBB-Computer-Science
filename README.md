@@ -3,7 +3,7 @@
   <li>:open_file_folder: Semester 1
     <ul>
       <li>
-        <a href="https://github.com/DragosMoro/Algebra"> 
+        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%201/Algebra"> 
           :clubs:  Algebra 
         </a>
       </li>
