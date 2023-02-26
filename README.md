@@ -36,7 +36,7 @@
   <li>:open_file_folder: Semester 3
     <ul>
       <li>
-        <a href="https://github.com/DragosMoro/Advanced-Methods-of-Programming"> 
+        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%203/Advanced%20Methods%20of%20Programming/Social%20Network%20with%20GUI"> 
           :santa:  Advanced Methods of Programming 
         </a>
       </li>
