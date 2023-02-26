@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="498.0" prefWidth="349.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.socialNetwork.controllers.LogInViewController">
+    <children>
+        <Label alignment="CENTER" layoutX="67.0" layoutY="46.0" prefHeight="50.0" prefWidth="220.0" text="The Social Network" textFill="#4267b2">
+            <font>
+                <Font name="Dubai Medium" size="25.0" />
+            </font>
+        </Label>
+        <AnchorPane fx:id="signUpPane" layoutX="43.0" layoutY="123.0" prefHeight="331.0" prefWidth="265.0" visible="false">
+            <children>
+                <TextField fx:id="firstNameRegisterTextField" layoutX="25.0" layoutY="23.0" prefHeight="21.0" prefWidth="220.0" promptText="First Name" style="-fx-border-color: grey; -fx-border-radius: 10; -fx-background-radius: 10;" />
+                <TextField fx:id="lastNameRegisterTextField" layoutX="25.0" layoutY="62.0" prefHeight="21.0" prefWidth="220.0" promptText="Last Name" style="-fx-background-radius: 10; -fx-border-radius: 10; -fx-border-color: grey;" />
+                <TextField fx:id="emailRegisterTextField" layoutX="25.0" layoutY="102.0" prefHeight="21.0" prefWidth="220.0" promptText="Email" style="-fx-background-radius: 10; -fx-border-radius: 10; -fx-border-color: grey;" />
+                <PasswordField fx:id="passwordRegisterTextField" layoutX="25.0" layoutY="139.0" prefHeight="25.0" prefWidth="220.0" promptText="Password" style="-fx-border-color: grey; -fx-border-radius: 10; -fx-background-radius: 10;" />
+                <PasswordField fx:id="repeatPasswordRegisterTextField" layoutX="25.0" layoutY="177.0" prefHeight="25.0" prefWidth="220.0" promptText="Repeat password" style="-fx-background-radius: 10; -fx-border-radius: 10; -fx-border-color: grey;" />
+                <Button fx:id="signUpButtonRegisterPane" layoutX="25.0" layoutY="217.0" mnemonicParsing="false" onAction="#onSignUpButtonRegisterClick" prefHeight="25.0" prefWidth="220.0" style="-fx-background-color: #4285F4; -fx-background-radius: 15; -fx-border-radius: 15; -fx-border-color: grey;" text="Sign up" textFill="WHITE" />
+                <Label layoutX="41.0" layoutY="280.0" prefHeight="20.0" prefWidth="119.0" text="Have an account?">
+                    <font>
+                        <Font size="14.0" />
+                    </font>
+                </Label>
+                <Label fx:id="logInLabelRegisterPane" layoutX="165.0" layoutY="280.0" onMouseClicked="#onLogInButtonRegisterClick" prefHeight="20.0" prefWidth="56.0" text="Log in" textFill="#4285f4">
+                    <font>
+                        <Font size="14.0" />
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+        <AnchorPane fx:id="logInPane" layoutX="43.0" layoutY="123.0" prefHeight="253.0" prefWidth="265.0">
+            <children>
+                <TextField fx:id="emailLogInTextField" layoutX="23.0" layoutY="21.0" prefHeight="21.0" prefWidth="220.0" promptText="Email" style="-fx-background-radius: 10; -fx-border-color: grey; -fx-border-radius: 10;" />
+                <PasswordField fx:id="passwordLogInTextField" layoutX="23.0" layoutY="60.0" prefHeight="25.0" prefWidth="220.0" promptText="Password" style="-fx-background-radius: 10; -fx-border-color: grey; -fx-border-radius: 10;" />
+                <Button fx:id="logInButtonLogInPane" layoutX="50.0" layoutY="102.0" mnemonicParsing="false" onAction="#onLogInButtonLogInClick" prefHeight="25.0" prefWidth="70.0" style="-fx-background-color: #4285F4; -fx-border-radius: 15; -fx-background-radius: 15; -fx-border-color: grey;" text="Login" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font></Button>
+                <Button fx:id="signUpButtonLogInPane" layoutX="145.0" layoutY="102.0" mnemonicParsing="false" onAction="#onSignUpButtonLogInClick" prefHeight="25.0" prefWidth="70.0" style="-fx-background-color: white; -fx-border-color: grey; -fx-border-radius: 15; -fx-background-radius: 15;" text="Sign up">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font></Button>
+            </children>
+        </AnchorPane>
+    </children>
+</AnchorPane>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="450.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.socialNetwork.controllers.ConversationController">
+    <children>
+        <AnchorPane layoutX="14.0" layoutY="14.0" prefHeight="37.0" prefWidth="275.0">
+            <children>
+                <Label fx:id="userNameLabel" alignment="CENTER" layoutX="56.0" layoutY="-2.0" prefHeight="17.0" prefWidth="163.0" text="Friend's name">
+                    <font>
+                        <Font name="Dubai Medium" size="18.0" />
+                    </font>
+                </Label>
+            <ImageView fx:id="refreshPageImageView" fitHeight="25.0" fitWidth="25.0" layoutX="242.0" layoutY="6.0" onMouseClicked="#onRefreshAction" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons8-reset-96.png" />
+               </image>
+            </ImageView>
+            </children>
+        </AnchorPane>
+        <ListView fx:id="messagesListView" layoutX="13.0" layoutY="62.0" prefHeight="331.0" prefWidth="275.0" style="-fx-border-color: black; -fx-border-radius: 5; -fx-background-radius: 5;" />
+        <AnchorPane layoutX="13.0" layoutY="393.0" prefHeight="56.0" prefWidth="275.0">
+            <children>
+                <TextField fx:id="messageTextField" layoutY="16.0" onKeyReleased="#onSendMessageKeyAction" prefHeight="25.0" prefWidth="236.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-radius: 20; -fx-background-radius: 20;" />
+                <ImageView fx:id="sendMessageImageView" fitHeight="25.0" fitWidth="33.0" layoutX="245.0" layoutY="16.0" onMouseClicked="#onSendMessageAction" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons8-send-64.png" />
+               </image>
+                </ImageView>
+            </children>
+        </AnchorPane>
+    </children>
+</AnchorPane>
