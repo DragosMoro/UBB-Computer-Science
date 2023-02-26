@@ -4,17 +4,17 @@
     <ul>
       <li>
         <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%201/Algebra"> 
-          :clubs:  Algebra 
+          ✔️:  Computer Systems Architecture 
         </a>
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Computational-Logic"> 
-          :trollface:  Computational Logic 
+          ✔️  Computational Logic 
         </a>
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Fundamental-of-Programming"> 
-          :snake:  Fundamental of Programming 
+          ✔️  Fundamental of Programming 
         </a>
       </li>
     </ul>
@@ -23,12 +23,12 @@
     <ul>
       <li>
         <a href="https://github.com/DragosMoro/Data-Structures-and-Algorithms"> 
-          :scissors:  Data Structures and Algorithms 
+          ✔️  Data Structures and Algorithms 
         </a>
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Object-Oriented-Programming"> 
-          :poop:  Object Oriented Programming 
+          ✔️  Object Oriented Programming 
         </a>
       </li>
     </ul>
@@ -37,27 +37,27 @@
     <ul>
       <li>
         <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%203/Advanced%20Methods%20of%20Programming/Social%20Network%20with%20GUI"> 
-          :santa:  Advanced Methods of Programming 
+          ✔️  Advanced Methods of Programming 
         </a>
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Computer-Networks"> 
-          :outbox_tray:  Computer Networks 
+          ✔️  Computer Networks 
         </a>
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Databases"> 
-          :nut_and_bolt:  Databases 
+          ✔️  Databases 
         </a>
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Functional-and-Logic-Programming"> 
-          :floppy_disk:  Functional and Logic Programming 
+          ✔️  Functional and Logic Programming 
         </a>
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Probability-and-Statistics"> 
-          :chart_with_upwards_trend:  Probability and Statistics
+          ✔️  Probability and Statistics
         </a>
       </li>
     </ul>
@@ -66,23 +66,23 @@
     <ul>
       <li>
         <a href="https://github.com/DragosMoro/Database-Management-Systems">
-          :nut_and_bolt:  Database Management Systems
+          🔲:  Database Management Systems
       </li>
       <li>
         <a href="https://github.com/DragosMoro/WebProgramming">
-          :newspaper:  Web Programming
+          🔲  Web Programming
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Systems-for-Design-and-Implementation">
-          :zap:  Systems for Design and Implementation
+          🔲 Systems for Design and Implementation
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Artificial-Intelligence">
-          :ferris_wheel:  Artificial Intelligence
+          🔲  Artificial Intelligence
       </li>
       <li>
         <a href="https://github.com/DragosMoro/Software-Engineering">
-          :ambulance:  Software Engineering
+          🔲  Software Engineering
         </a>
       </li>
     </ul>
