@@ -1,0 +1,15 @@
+E:\lab_c#\LaboratorSuplimentar\bin\Debug\net7.0\LaboratorSuplimentar.exe
+E:\lab_c#\LaboratorSuplimentar\bin\Debug\net7.0\LaboratorSuplimentar.deps.json
+E:\lab_c#\LaboratorSuplimentar\bin\Debug\net7.0\LaboratorSuplimentar.runtimeconfig.json
+E:\lab_c#\LaboratorSuplimentar\bin\Debug\net7.0\LaboratorSuplimentar.dll
+E:\lab_c#\LaboratorSuplimentar\bin\Debug\net7.0\LaboratorSuplimentar.pdb
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\LaboratorSuplimentar.csproj.AssemblyReference.cache
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\LaboratorSuplimentar.GeneratedMSBuildEditorConfig.editorconfig
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\LaboratorSuplimentar.AssemblyInfoInputs.cache
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\LaboratorSuplimentar.AssemblyInfo.cs
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\LaboratorSuplimentar.csproj.CoreCompileInputs.cache
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\LaboratorSuplimentar.dll
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\refint\LaboratorSuplimentar.dll
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\LaboratorSuplimentar.pdb
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\LaboratorSuplimentar.genruntimeconfig.cache
+E:\lab_c#\LaboratorSuplimentar\obj\Debug\net7.0\ref\LaboratorSuplimentar.dll
