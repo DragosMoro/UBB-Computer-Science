@@ -1,0 +1,5 @@
+﻿  Multime.cpp
+C:\Users\Dragos\source\repos\Tema_sda_lab_6\Tema_sda_lab_6\Multime.cpp(17,23): warning C4101: 'y': unreferenced local variable
+C:\Users\Dragos\source\repos\Tema_sda_lab_6\Tema_sda_lab_6\Multime.cpp(17,20): warning C4101: 'x': unreferenced local variable
+C:\Users\Dragos\source\repos\Tema_sda_lab_6\Tema_sda_lab_6\Multime.cpp(17,17): warning C4101: 'r': unreferenced local variable
+  Tema_sda_lab_6.vcxproj -> C:\Users\Dragos\source\repos\Tema_sda_lab_6\x64\Debug\Tema_sda_lab_6.exe

@@ -1,0 +1,18 @@
+[2022-04-19 22:13:59] [info] Start Program:
+Path:"C:\Users\Dragos\source\repos\Lab_4_SDA\x64\Debug\Lab_4_SDA.exe"
+Arguments:
+Working directory: "C:\Users\Dragos\source\repos\Lab_4_SDA\Lab_4_SDA\"
+Modules: Selected: C:\Users\Dragos\source\repos\Lab_4_SDA\x64\Debug\Lab_4_SDA.exe Excluded: 
+Sources: Selected: C:\Users\Dragos\source\repos\Lab_4_SDA\Lab_4_SDA Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Dragos\AppData\Local\Temp\4kvq3wob.adj 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-04-19 22:13:59] [info] Module: C:\Users\Dragos\source\repos\Lab_4_SDA\x64\Debug\Lab_4_SDA.exe is selected because it matches selected pattern: C:\Users\Dragos\source\repos\Lab_4_SDA\x64\Debug\Lab_4_SDA.exe

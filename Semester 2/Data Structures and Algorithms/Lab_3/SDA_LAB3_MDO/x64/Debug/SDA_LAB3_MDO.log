@@ -1,0 +1,3 @@
+﻿  MDO.cpp
+C:\Users\Dragos\source\repos\SDA_LAB3_MDO\SDA_LAB3_MDO\MDO.cpp(235): warning C4715: 'MDO::sterge': not all control paths return a value
+  SDA_LAB3_MDO.vcxproj -> C:\Users\Dragos\source\repos\SDA_LAB3_MDO\x64\Debug\SDA_LAB3_MDO.exe

@@ -1,0 +1,19 @@
+﻿  App.cpp
+  TestScurt.cpp
+C:\Users\Dragos\source\repos\Proiect_SDA_MDO\Proiect_SDA_MDO\TestScurt.cpp(120,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dragos\source\repos\Proiect_SDA_MDO\Proiect_SDA_MDO\TestScurt.cpp(138,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+TestScurt.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl cheiInOrdineAleatoare(int,int)" (?cheiInOrdineAleatoare@@YA?AV?$vector@HV?$allocator@H@std@@@std@@HH@Z) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "bool __cdecl cresc(int,int)" (?cresc@@YA_NHH@Z) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "bool __cdecl desc(int,int)" (?desc@@YA_NHH@Z) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "void __cdecl populeazaMDOVidIdentic(class MDO &,int,int)" (?populeazaMDOVidIdentic@@YAXAEAVMDO@@HH@Z) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "void __cdecl testAllExtins(void)" (?testAllExtins@@YAXXZ) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "void __cdecl testCauta(bool (__cdecl*)(int,int))" (?testCauta@@YAXP6A_NHH@Z@Z) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "void __cdecl testCauta(void)" (?testCauta@@YAXXZ) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "void __cdecl testCreeaza(void)" (?testCreeaza@@YAXXZ) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "void __cdecl testIterator(bool (__cdecl*)(int,int))" (?testIterator@@YAXP6A_NHH@Z@Z) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "void __cdecl testIterator(void)" (?testIterator@@YAXXZ) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "void __cdecl testSterge(void)" (?testSterge@@YAXXZ) already defined in TestExtins.obj
+TestScurt.obj : error LNK2005: "void __cdecl testStergeCauta(bool (__cdecl*)(int,int))" (?testStergeCauta@@YAXP6A_NHH@Z@Z) already defined in TestExtins.obj
+App.obj : error LNK2019: unresolved external symbol "void __cdecl testAll(void)" (?testAll@@YAXXZ) referenced in function main
+C:\Users\Dragos\source\repos\Proiect_SDA_MDO\x64\Debug\Proiect_SDA_MDO.exe : fatal error LNK1120: 1 unresolved externals

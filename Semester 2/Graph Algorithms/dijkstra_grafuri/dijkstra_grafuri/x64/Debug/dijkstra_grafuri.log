@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Dragos\source\repos\dijkstra_grafuri\dijkstra_grafuri\Source.cpp(73,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dragos\source\repos\dijkstra_grafuri\dijkstra_grafuri\Source.cpp(74,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dragos\source\repos\dijkstra_grafuri\dijkstra_grafuri\Source.cpp(75,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  dijkstra_grafuri.vcxproj -> C:\Users\Dragos\source\repos\dijkstra_grafuri\x64\Debug\dijkstra_grafuri.exe
