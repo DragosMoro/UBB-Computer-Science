@@ -31,7 +31,7 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/DragosMoro/Object-Oriented-Programming"> 
+        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%202/Object-Oriented%20Programming"> 
           ✔️  Object Oriented Programming 
         </a>
       </li>
@@ -40,15 +40,13 @@
           ✔️  Graph Algorithms
         </a>
       </li>
-       <li>
-        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%202/Graph%20Algorithms"> 
-          ✔️  Operating Systems
-        </a>
-      </li>
       <li>
         <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%202/Dynamical%20Systems"> 
           ✔️  Dynamical Systems
         </a>
+      </li>
+       <li>
+          ✔️  Operating Systems
       </li>
       <li>
           ✔️  Geometry
@@ -68,12 +66,12 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/DragosMoro/Databases"> 
+        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%203/Databases"> 
           ✔️  Databases 
         </a>
       </li>
       <li>
-        <a href="https://github.com/DragosMoro/Functional-and-Logic-Programming"> 
+        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%203/Functional%20and%20Logic%20Programming"> 
           ✔️  Functional and Logic Programming 
         </a>
       </li>
