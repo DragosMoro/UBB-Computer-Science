@@ -8,14 +8,12 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/DragosMoro/Computational-Logic"> 
-          ✔️  Computational Logic 
-        </a>
-      </li>
-      <li>
         <a href="https://github.com/DragosMoro/Fundamental-of-Programming"> 
           ✔️  Fundamental of Programming 
         </a>
+      </li>
+      <li>
+          ✔️  Computational Logic
       </li>
        <li>
           ✔️  Algebra 
@@ -42,8 +40,13 @@
           ✔️  Graph Algorithms
         </a>
       </li>
+       <li>
+        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%202/Graph%20Algorithms"> 
+          ✔️  Operating Systems
+        </a>
+      </li>
       <li>
-        <a href="https://github.com/DragosMoro/Object-Oriented-Programming"> 
+        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%202/Dynamical%20Systems"> 
           ✔️  Dynamical Systems
         </a>
       </li>
@@ -75,7 +78,7 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/DragosMoro/Probability-and-Statistics"> 
+        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%203/Probability%20and%20Statistics"> 
           ✔️  Probability and Statistics
         </a>
       </li>
