@@ -82,7 +82,7 @@
       </li>
     </ul>
   </li>
-  <li>:open_file_folder: Semester 4
+  <li>:open_file_folder: Semester 4 - TBA
     <ul>
       <li>
           🔲  Database Management Systems
