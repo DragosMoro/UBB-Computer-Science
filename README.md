@@ -87,23 +87,18 @@
   <li>:open_file_folder: Semester 4
     <ul>
       <li>
-        <a href="https://github.com/DragosMoro/Database-Management-Systems">
-          🔲:  Database Management Systems
+          🔲  Database Management Systems
       </li>
       <li>
-        <a href="https://github.com/DragosMoro/WebProgramming">
           🔲  Web Programming
       </li>
       <li>
-        <a href="https://github.com/DragosMoro/Systems-for-Design-and-Implementation">
           🔲 Systems for Design and Implementation
       </li>
       <li>
-        <a href="https://github.com/DragosMoro/Artificial-Intelligence">
           🔲  Artificial Intelligence
       </li>
       <li>
-        <a href="https://github.com/DragosMoro/Software-Engineering">
           🔲  Software Engineering
         </a>
       </li>
