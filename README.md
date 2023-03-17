@@ -1,6 +1,6 @@
 # UBB-Computer-Science
 <ul>
-  <li>:open_file_folder: UBB-Computer-Science\Semester 1
+  <li>:open_file_folder: Semester 1
     <ul>
       <li>
         <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%203/Advanced%20Methods%20of%20Programming"> 
@@ -23,7 +23,7 @@
       </li>
     </ul>
   </li>
-  <li>:open_file_folder: UBB-Computer-Science\Semester 2
+  <li>:open_file_folder: Semester 2
     <ul>
       <li>
         <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%202/Data%20Structures%20and%20Algorithms"> 
@@ -55,7 +55,7 @@
       </li>
     </ul>
   </li>
-  <li>:open_file_folder: UBB-Computer-Science\Semester 3
+  <li>:open_file_folder: Semester 3
     <ul>
       <li>
         <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%203/Advanced%20Methods%20of%20Programming"> 
@@ -84,7 +84,7 @@
       </li>
     </ul>
   </li>
-  <li>:open_file_folder: UBB-Computer-Science\Semester 4
+  <li>:open_file_folder: Semester 4
     <ul>
       <li>
         <a href="https://github.com/DragosMoro/Database-Management-Systems">
