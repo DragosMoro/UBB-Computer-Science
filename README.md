@@ -4,7 +4,7 @@
     <ul>
       <li>
         <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%201/Algebra"> 
-          ✔️:  Computer Systems Architecture 
+          ✔️  Computer Systems Architecture 
         </a>
       </li>
       <li>
@@ -16,6 +16,14 @@
         <a href="https://github.com/DragosMoro/Fundamental-of-Programming"> 
           ✔️  Fundamental of Programming 
         </a>
+      </li>
+       <li>
+   
+          ✔️  Algebra 
+      </li>
+       <li>
+   
+          ✔️  Mathematical Analysis
       </li>
     </ul>
   </li>
@@ -29,6 +37,19 @@
       <li>
         <a href="https://github.com/DragosMoro/Object-Oriented-Programming"> 
           ✔️  Object Oriented Programming 
+        </a>
+      </li>
+       <li>
+        <a href="https://github.com/DragosMoro/Object-Oriented-Programming"> 
+          ✔️  Graph Algorithms
+        </a>
+      </li>
+      <li>
+          ✔️  Geometry
+      </li>
+      <li>
+        <a href="https://github.com/DragosMoro/Object-Oriented-Programming"> 
+          ✔️  Dynamical Systems
         </a>
       </li>
     </ul>
