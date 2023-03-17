@@ -18,11 +18,9 @@
         </a>
       </li>
        <li>
-   
           ✔️  Algebra 
       </li>
        <li>
-   
           ✔️  Mathematical Analysis
       </li>
     </ul>
