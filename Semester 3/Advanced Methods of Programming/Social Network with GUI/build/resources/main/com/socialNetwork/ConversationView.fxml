@@ -30,7 +30,7 @@
                 <TextField fx:id="messageTextField" layoutY="16.0" onKeyReleased="#onSendMessageKeyAction" prefHeight="25.0" prefWidth="236.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-radius: 20; -fx-background-radius: 20;" />
                 <ImageView fx:id="sendMessageImageView" fitHeight="25.0" fitWidth="33.0" layoutX="245.0" layoutY="16.0" onMouseClicked="#onSendMessageAction" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@icons8-send-64.png" />
+                  <Image url="@icon.png" />
                </image>
                 </ImageView>
             </children>
