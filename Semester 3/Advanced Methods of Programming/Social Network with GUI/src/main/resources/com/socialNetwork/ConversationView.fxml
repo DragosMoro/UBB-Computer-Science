@@ -17,11 +17,6 @@
                         <Font name="Dubai Medium" size="18.0" />
                     </font>
                 </Label>
-            <ImageView fx:id="refreshPageImageView" fitHeight="25.0" fitWidth="25.0" layoutX="242.0" layoutY="6.0" onMouseClicked="#onRefreshAction" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@icons8-reset-96.png" />
-               </image>
-            </ImageView>
             </children>
         </AnchorPane>
         <ListView fx:id="messagesListView" layoutX="13.0" layoutY="62.0" prefHeight="331.0" prefWidth="275.0" style="-fx-border-color: black; -fx-border-radius: 5; -fx-background-radius: 5;" />
@@ -30,7 +25,7 @@
                 <TextField fx:id="messageTextField" layoutY="16.0" onKeyReleased="#onSendMessageKeyAction" prefHeight="25.0" prefWidth="236.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-radius: 20; -fx-background-radius: 20;" />
                 <ImageView fx:id="sendMessageImageView" fitHeight="25.0" fitWidth="33.0" layoutX="245.0" layoutY="16.0" onMouseClicked="#onSendMessageAction" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@icons8-send-64.png" />
+                  <Image url="@icon.png" />
                </image>
                 </ImageView>
             </children>

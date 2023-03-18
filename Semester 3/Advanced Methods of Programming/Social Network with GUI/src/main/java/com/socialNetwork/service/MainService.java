@@ -233,7 +233,6 @@ public class MainService implements Service {
         messagesRepository.loadData("SELECT * FROM messages");
     }
 
-
     @Override
     public void refresh() {
         userRepository.clearData();
