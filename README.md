@@ -3,12 +3,10 @@
   <li>:open_file_folder: Semester 1
     <ul>
       <li>
-        <a href="https://github.com/DragosMoro/UBB-Computer-Science/tree/main/Semester%203/Advanced%20Methods%20of%20Programming"> 
           ✔️  Computer Systems Architecture 
         </a>
       </li>
-      <li>
-        <a href="https://github.com/DragosMoro/Fundamental-of-Programming"> 
+      <li> 
           ✔️  Fundamental of Programming 
         </a>
       </li>
